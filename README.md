@@ -2,10 +2,10 @@
 
 <figure>
     <img src="https://vlademir-junior.github.io/images/foto%20perfil.jpeg"
-         alt="foto-perfil-vlademir" width="200" heigth="200">
+         alt="foto-perfil-vlademir" width="200" heigth="200" target="_blank">
 </figure>
 
-Prazer, eu sou o Vlademir e este é o meu repositório no **GitHub**!
+Prazer, eu sou o Vlademir e este é o meu repositório no *GitHub*!
 
 
 - Sou um estudante de programação em busca de oportunidades.
