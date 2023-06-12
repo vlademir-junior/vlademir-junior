@@ -1,5 +1,10 @@
 ### Olá! 
 
+<figure>
+    <img src="https://vlademir-junior.github.io/images/foto%20perfil.jpeg"
+         alt="foto-perfil-vlademir" width="200" heigth="200">
+</figure>
+
 Prazer, eu sou o Vlademir e este é o meu repositório no **GitHub**!
 
 
