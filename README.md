@@ -12,3 +12,6 @@ Prazer, eu sou o Vlademir e este é o meu repositório no *GitHub*!
 - Neste repositório você irá encontrar minhas informações, projetos e tudo que publico relacionado a programação.
 
 Visite meu ***[Portifólio](https://vlademir-junior.github.io/)***.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlademir-junior)](https://github.com/anuraghazra/github-readme-stats)
