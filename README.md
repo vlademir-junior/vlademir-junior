@@ -6,7 +6,7 @@ Prazer, eu sou o Vlademir e este é o meu repositório no *GitHub*!
 - Sou um estudante de programação em busca de oportunidades.
 - Neste repositório você irá encontrar minhas informações, projetos e tudo que publico relacionado a programação.
 
-Visite meu ***[Portifólio](https://vlademir-junior.github.io/)***.
+Visite meu ***[Portifólio](https://portfolio-ochre-theta-12.vercel.app/)***.
 
 ### Detalhes:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlademir-junior&show_icons=true)
@@ -14,7 +14,7 @@ Visite meu ***[Portifólio](https://vlademir-junior.github.io/)***.
 
 ### Projetos:
 
-#### TikToKlone
+#### VideoStreamApp
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlademir-junior&repo=jornada-dev)](https://github.com/vlademir-junior/jornada-dev)
 
 #### StringGTR
