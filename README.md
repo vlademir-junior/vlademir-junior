@@ -12,13 +12,4 @@ Visite meu ***[Portifólio](https://portfolio-ochre-theta-12.vercel.app/)***.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlademir-junior&show_icons=true)
 
 
-### Projetos:
-
-#### VideoStreamApp
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlademir-junior&repo=jornada-dev)](https://github.com/vlademir-junior/jornada-dev)
-
-#### StringGTR
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vlademir-junior&repo=app-corda-guitarra)](https://github.com/vlademir-junior/app-corda-guitarra)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
